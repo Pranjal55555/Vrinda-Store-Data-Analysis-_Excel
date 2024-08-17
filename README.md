@@ -1,0 +1,1 @@
+The Vrinda Store Data Analytics project involved analyzing sales and inventory data to derive actionable insights for improving store performance. I utilized Excel for data cleaning, organizing, and visualizing the data, ensuring it was ready for analysis.
